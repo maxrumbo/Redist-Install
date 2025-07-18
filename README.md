@@ -10,7 +10,7 @@ Welcome! This repository provides crucial redistributable files often needed for
 Follow these simple steps to install and launch your game:
 
 1.  **Download the Game:**
-    Since the game setup files are quite large, they're hosted separately. Grab them directly from our Google Drive:
+    Since the game setup files are quite large, they're hosted separately. Grab them directly from my Google Drive folder:
     [**Stronghold Crusader Extreme HD Setup Files**](https://drive.google.com/drive/folders/1BcKv2RUOsrawzGpaNUIeEvvyXcCuW4Zi?usp=drive_link)
 
 2.  **Start the Installation:**
